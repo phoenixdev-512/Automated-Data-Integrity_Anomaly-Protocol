@@ -1,4 +1,4 @@
-# SENTINEL: Automated Data Integrity Protocol
+Automated Data Integrity Protocol
 
 <div align="center">
 
