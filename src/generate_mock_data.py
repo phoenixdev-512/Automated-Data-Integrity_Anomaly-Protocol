@@ -3,8 +3,8 @@ Sentinel Mock Data Generator
 =============================
 Generates synthetic financial datasets with intentional anomalies for QA testing.
 
-Author: Data Engineering Team
-Purpose: Portfolio Demonstration - Automated Data Integrity Protocol
+Author: Abhay
+Purpose: Learning Data Quality Testing - Automated Data Integrity Protocol
 """
 
 import csv

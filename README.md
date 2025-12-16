@@ -3,7 +3,7 @@
 <div align="center">
 
 **A Production-Grade Financial Reconciliation Engine**  
-*Demonstrating Script Maintenance, Data QA, and Troubleshooting Skills for WeWork BI*
+*Learning Project: Building Automated Data Quality Solutions*
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-green.svg)](https://pandas.pydata.org/)
@@ -15,7 +15,7 @@
 
 ## Project Overview
 
-**Sentinel** is an automated data quality tool that reconciles internal sales data against external bank payment feeds to detect financial discrepancies. This portfolio project demonstrates the **exact skills required for the WeWork BI Intern role**:
+**Sentinel** is an automated data quality tool that reconciles internal sales data against external bank payment feeds to detect financial discrepancies. This project explores practical applications of:
 
 - **Script Maintenance** - Modular, maintainable Python codebase with logging  
 - **Troubleshooting Data Issues** - Automated detection of missing payments and variances  
@@ -160,13 +160,13 @@ Check `audit_reports/FORENSIC_REPORT.txt` for detailed findings.
 
 ## Key Features
 
-| Feature | Description | WeWork Skill Mapping |
-|---------|-------------|----------------------|
-| **Automated Anomaly Detection** | Identifies missing payments via left join analysis | Troubleshooting Data Issues |
-| **Enterprise Logging** | Structured logging with severity levels (INFO/WARNING/CRITICAL) | Script Maintenance |
-| **Forensic Reporting** | Generates audit-ready text reports with executive summaries | QA for Reports |
-| **Modular Design** | Separation of concerns (data generation, core logic, reporting) | Script Maintenance |
-| **Test Data Generator** | Controlled error injection for QA validation | QA for Reports |
+| Feature | Description | Technical Focus |
+|---------|-------------|----------------|
+| **Automated Anomaly Detection** | Identifies missing payments via left join analysis | Data Analysis & Pandas Operations |
+| **Enterprise Logging** | Structured logging with severity levels (INFO/WARNING/CRITICAL) | Python Best Practices |
+| **Forensic Reporting** | Generates audit-ready text reports with executive summaries | Report Automation |
+| **Modular Design** | Separation of concerns (data generation, core logic, reporting) | Software Architecture |
+| **Test Data Generator** | Controlled error injection for QA validation | Quality Assurance Techniques |
 
 ---
 
@@ -221,13 +221,13 @@ Check `audit_reports/FORENSIC_REPORT.txt` for detailed findings.
 ## About This Project
 
 **Created by:** Abhay  
-**Purpose:** WeWork BI Intern Application Portfolio  
+**Purpose:** Learning Data Engineering and Quality Automation  
 **Contact:** [Your Email/LinkedIn]
 
-**Why This Project?**
-- Directly aligns with the job requirements (Script Maintenance, Troubleshooting, QA)
-- Shows initiative in building production-ready tools
-- Demonstrates understanding of financial data reconciliation (relevant for BI roles)
+**Project Goals:**
+- Build practical experience with data reconciliation workflows
+- Learn enterprise-level logging and error handling patterns
+- Understand financial data quality challenges and solutions
 
 ---
 
@@ -239,8 +239,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**If this project helps your portfolio, consider giving it a star!**
+**If you find this project helpful, consider giving it a star!**
 
-Made for the WeWork BI Team
+Built with Python for Data Quality Learning
 
 </div>

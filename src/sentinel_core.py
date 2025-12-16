@@ -8,8 +8,8 @@ Core Functions:
 - Revenue Variance Identification (Amount Mismatch)
 - Forensic Audit Report Generation
 
-Author: Data Engineering Team
-Target: WeWork BI Intern Portfolio
+Author: Abhay
+Purpose: Learning Data Quality Automation
 """
 
 import pandas as pd
